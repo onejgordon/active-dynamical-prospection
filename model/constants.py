@@ -1,0 +1,9 @@
+REACH_ZONE_R = 70
+REACHABLE_BUFFER = 1.2  # Multiplied by reach zone when calculating attention reachability
+MAP_W = 750
+MAP_H = 500
+NODE_R = 5
+GOAL_R = 10
+AGENT_R = 3.5
+DRAG_TARGET_R = 8
+FOV_R = 45
