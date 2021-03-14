@@ -1,6 +1,6 @@
 # Active Dynamical Prospection
 
-Code for paper submitted to ALife 2021: "Active Dynamical Prospection: Modeling the Guidance of Movement and Attention via Monte Carlo Particle Simulation".
+Code for paper submitted to ALife 2021: "Active Dynamical Prospection: Modeling Mental Simulation as Particle Filtering for Sensorimotor Control during Pathfinding".
 
 ## Repository structure
 
